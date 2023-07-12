@@ -30,9 +30,13 @@ My academic journey is guided by my passion for 3D computer vision, with a speci
 
 **[2022/06]** [**M2-Track**](https://ghostish.github.io/MM-Track/) is accepted by CVPR 2022 (**Oral**). The proposed motion-centric paradigm is Faster, Superior, and Memory-Efficient.   
 
-**[2021/10]** Won **2nd** award in ICCV 2021 Challenge on [Urban Scenes Understanding](https://competitions.codalab.org/competitions/31519#learn_the_details). [[Code]](https://github.com/yanx27/Urban3D-2021-2nd).  
+**[2021/10]** Won **2nd** award in ICCV 2021 Challenge on [Urban Scenes Understanding](https://competitions.codalab.org/competitions/31519#learn_the_details).
 
 **[2021/10]** [**BAT**](https://github.com/Ghostish/BAT) is accepted by ICCV 2021. It enhances existing tracker with a simply-yet-effective box-aware feature enhancement.
+
+**[2021/6]** [**CAR-NET**](https://ieeexplore.ieee.org/document/9442303) is accepted by TIP. It ranks 1st on ModelNet40/10 and ShapeNetCore55 benchmarks.
+
+**[2020/6]** Our robust and versatile point cloud operator [**PointASNL**](https://github.com/yanx27/PointASNL) is accepted by CVPR 2020. 
 
 # Activities
 ### Reviewer
