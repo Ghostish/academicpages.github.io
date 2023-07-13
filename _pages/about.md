@@ -46,6 +46,6 @@ CVPR, ICCV, TIP
 
 ### Teaching Assistant
 + [CUHKSZ CIE6032]: Selected Topics in Deep Learning Foundations and Their Applications  
-+ [CUHKSZ CSC1001]:Introduction to Computer Science: Programming Methodology  
-+ [CUHKSZ CSC4140]:Computer Graphics
++ [CUHKSZ CSC1001]: Introduction to Computer Science: Programming Methodology  
++ [CUHKSZ CSC4140]: Computer Graphics
 
