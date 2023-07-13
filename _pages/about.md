@@ -45,7 +45,7 @@ CVPR, ICCV, TIP
 + Invited talk at TechBeat on Motion-Centric Single Object Tracking, June 2022. [[Recording]](https://www.techbeat.net/talk-info?id=674)
 
 ### Teaching Assistant
-+ [CUHKSZ CIE6032]: Selected Topics in Deep Learning Foundations and Their Applications  
-+ [CUHKSZ CSC1001]: Introduction to Computer Science: Programming Methodology  
-+ [CUHKSZ CSC4140]: Computer Graphics
++ CUHKSZ CIE6032: Selected Topics in Deep Learning Foundations and Their Applications  
++ CUHKSZ CSC1001: Introduction to Computer Science: Programming Methodology  
++ CUHKSZ CSC4140: Computer Graphics
 
