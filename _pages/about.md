@@ -41,9 +41,11 @@ My academic journey is guided by my passion for 3D computer vision, with a speci
 # Activities
 ### Reviewer
 CVPR, ICCV, TIP
+### Talks
++ Invited talk at TechBeat on Motion-Centric Single Object Tracking, June 2022. [[Recording]](https://www.techbeat.net/talk-info?id=674)
 
 ### Teaching Assistant
-CIE6032: Selected Topics in Deep Learning Foundations and Their Applications  
-CSC1001:Introduction to Computer Science: Programming Methodology  
-CSC4140:Computer Graphics
++ [CUHKSZ CIE6032]: Selected Topics in Deep Learning Foundations and Their Applications  
++ [CUHKSZ CSC1001]:Introduction to Computer Science: Programming Methodology  
++ [CUHKSZ CSC4140]:Computer Graphics
 
