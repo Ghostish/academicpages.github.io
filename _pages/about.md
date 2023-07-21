@@ -20,6 +20,8 @@ My academic journey is guided by my passion for 3D computer vision, with a speci
 
 
 # News
+**[2023/07] One paper on 3D lane detections is accepted by ICCV 2023.
+
 **[2023/06]** Won **1st** place in 4D Semantic Segmentation and **3rd** place in 4D Action Segmentation at the CVPR 2023's HOI4D Challenge.  
 
 **[2023/01]** [**CAT**](https://ieeexplore.ieee.org/document/10011208) is accepted by TNNLS.  
