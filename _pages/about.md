@@ -20,6 +20,8 @@ My academic journey is guided by my passion for 3D computer vision, with a speci
 
 
 # News
+**[2023/08]** [**LATR**](https://arxiv.org/abs/2308.04583) is selected as ICCV 2023 **ORAL**.
+
 **[2023/07]** One paper on 3D point cloud upsampling is accepted by ACM MM 2023.
 
 **[2023/07]** One paper on 3D lane detections is accepted by ICCV 2023.
