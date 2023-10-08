@@ -20,6 +20,8 @@ My academic journey is guided by my passion for 3D computer vision, with a speci
 
 
 # News
+**[2023/10]**[**M2-Track** extension](https://arxiv.org/abs/2303.12535) is accepted by **TPAMI**.
+
 **[2023/08]** [**LATR**](https://arxiv.org/abs/2308.04583) is selected as ICCV 2023 **ORAL**.
 
 **[2023/07]** One paper on 3D point cloud upsampling is accepted by ACM MM 2023.
